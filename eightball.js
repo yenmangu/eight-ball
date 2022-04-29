@@ -1,3 +1,4 @@
+/to start, enter a username or leave blank
 let userName = '';
 console.log(`The name you have entered is: ${userName ? userName : 'Error! No name! I will call you stranger'}.`);
 console.log(`hello ${userName ? userName : 'stranger'}! Welcome to the show!`);
